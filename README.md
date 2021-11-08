@@ -17,24 +17,24 @@ or<br> -->
 
 <br>
 
-Using the website can be simple. On the left hand side there are several available filters for date, city, state, country and shape.<br>
+Using the website is simple. There are several available filters for date, city, state, country, and shape on the left-hand side.<br>>
 
 ![Defult_View](https://github.com/HappyM0f0/UFOs/blob/main/static/img/UFO_01.png)<br>
 <br>
 
-Filtering the content is simple. After typing in the desired criteria, press enter or deselect the input box by clicking anywhere on the page.<br>
+Filtering the content by typing in the desired criteria, press enters or deselect the input box by clicking anywhere on the page. In the example we will use "tx" for State.<br>
 
 ![Post_filter_no_Markings](https://github.com/HappyM0f0/UFOs/blob/main/static/img/UFO_02.png)<br>
 
-Afterwards we can see the content of the table change to our desired filter. In the image below we filtered to the state of "tx."<br>
+Afterward, we can see the content of the table change to our desired filter. In the image we see the results filtered to the state of "tx."<br>
 
 ![Post_filter_with_markings](https://github.com/HappyM0f0/UFOs/blob/main/static/img/UFO_02.1.png)<br>
 
 ## Summary:
 * The summary addresses one drawback of this webpage (2 pt)<br>
-- since shape only has a limited number of options we can make this into a drop down
-- currenly we are limited to only the data provided which is not current
-- the website shows all of the results at once, which could be greater that 100 entries
+- since shape only has a limited number of options, we can make this into a drop-down
+- currently, we are limited to only the data provided, which is not current
+- the website shows all of the results at once, which could be greater than 100 entries
 
 * The summary addresses two additional recommendations for further development (4 pt)<br>
 - limited the number of entires to 100 or fewer, could have it paged to show 100 at a time.
