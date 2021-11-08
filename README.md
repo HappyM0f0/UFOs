@@ -2,7 +2,7 @@
  
 When building a website. Sometimes it is helpful to create a site map that will help keep the larger picture intact.
 
-![Website_storyboard](UFOs\Assets\img\website_storyboard.png)
+![Website_storyboard](https://github.com/HappyM0f0/UFOs/blob/main/static/img/website_storyboard.png)
 
 
 
