@@ -18,8 +18,11 @@ Using the website can be simple. On the left hand side there are several availab
 ![Defult_View](https://github.com/HappyM0f0/UFOs/blob/main/static/img/UFO_01.png)<br>
 <br>
 Filtering the content is simple. After typing in the desired criteria, press enter or deselect the input box by clicking anywhere on the page.<br>
+
 ![Post_filter_no_Markings](https://github.com/HappyM0f0/UFOs/blob/main/static/img/UFO_02.png)<br>
-Afterwards we can see the content of the table change to our desired filter. In the image below we filtered to the state of "tx."
+
+Afterwards we can see the content of the table change to our desired filter. In the image below we filtered to the state of "tx."<br>
+
 ![Post_filter_with_markings](https://github.com/HappyM0f0/UFOs/blob/main/static/img/UFO_02.1.png)<br>
 
 ## Summary:
