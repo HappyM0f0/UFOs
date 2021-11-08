@@ -30,7 +30,7 @@ Filtering the content by typing in the desired criteria, press "Enter/Return" or
 
 <!-- ![Post_filter_no_Markings](https://github.com/HappyM0f0/UFOs/blob/main/static/img/UFO_02.png)<br> -->
 
-Afterward, the content of the table change to the desired filter. In the image we see the results filtered to the state of "tx."<br>
+Afterward, the content of the table changes to the desired filter. In the image we see the results filtered to the state of "tx."<br>
 
 ![Post_filter_with_markings](https://github.com/HappyM0f0/UFOs/blob/main/static/img/UFO_02.1.png)<br>
 
@@ -39,13 +39,10 @@ Afterward, the content of the table change to the desired filter. In the image w
 
 <br>
 
-- since shape only has a limited number of options, we can make this into a drop-down
-- currently, we are limited to only the data provided, which is not current
-- the website shows all of the results at once, which could be greater than 100 entries
+Currently, the website data is limited and not current. A better user experience could be providing a drop-down for the "shape" filter as it has a limited number of options. In addition, the website also shows all of the results at once, which could be greater than 100 entries. Therefore, the table should be limited to 50-100 entries to create a better experience. 
 
 * The summary addresses two additional recommendations for further development (4 pt)<br>
 
 <br>
 
-- limited the number of entires to 100 or fewer, could have it paged to show 100 at a time.
-- Have the website pull information from sources directly
+Two things to develop would be to limit the number of entries to 100 or fewer, could have it paged to show 100 at a time. Moreover, the website should scrap the data every week or month to keep the data set current.
