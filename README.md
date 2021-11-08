@@ -14,10 +14,14 @@ or<br> -->
 
 ## Results:
 * There is a description of how to perform a search, with images. (4 pt)<br>
+
 <br>
+
 Using the website can be simple. On the left hand side there are several available filters for date, city, state, country and shape.<br>
+
 ![Defult_View](https://github.com/HappyM0f0/UFOs/blob/main/static/img/UFO_01.png)<br>
 <br>
+
 Filtering the content is simple. After typing in the desired criteria, press enter or deselect the input box by clicking anywhere on the page.<br>
 
 ![Post_filter_no_Markings](https://github.com/HappyM0f0/UFOs/blob/main/static/img/UFO_02.png)<br>
