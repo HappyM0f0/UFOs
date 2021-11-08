@@ -39,7 +39,7 @@ Afterward, the content of the table changes to the desired filter. In the image 
 
 <br>
 
-Currently, the website data is limited and not current. A better user experience could be providing a drop-down for the "shape" filter as it has a limited number of options. In addition, the website also shows all of the results at once, which could be greater than 100 entries. Therefore, the table should be limited to 50-100 entries to create a better experience. 
+Currently, the website data is limited and not up to date. A better user experience could be providing a drop-down for the "shape" filter as it has a limited number of options. In addition, the website also shows all of the results at once, which could be greater than 100 entries. Therefore, the table should be limited to 50-100 entries to create a better experience. 
 
 * The summary addresses two additional recommendations for further development (4 pt)<br>
 
