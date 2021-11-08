@@ -26,11 +26,11 @@ Using the website is simple. There are several available filters for date, city,
 ![Defult_View](https://github.com/HappyM0f0/UFOs/blob/main/static/img/UFO_01.png)<br>
 <br>
 
-Filtering the content by typing in the desired criteria, press enters or deselect the input box by clicking anywhere on the page. In the example we will use "tx" for State.<br>
+Filtering the content by typing in the desired criteria, press "Enter/Return" or deselect the input box by clicking elsewhere on the page. The example image will use "tx" for State.<br>
 
-![Post_filter_no_Markings](https://github.com/HappyM0f0/UFOs/blob/main/static/img/UFO_02.png)<br>
+<!-- ![Post_filter_no_Markings](https://github.com/HappyM0f0/UFOs/blob/main/static/img/UFO_02.png)<br> -->
 
-Afterward, we can see the content of the table change to our desired filter. In the image we see the results filtered to the state of "tx."<br>
+Afterward, the content of the table change to the desired filter. In the image we see the results filtered to the state of "tx."<br>
 
 ![Post_filter_with_markings](https://github.com/HappyM0f0/UFOs/blob/main/static/img/UFO_02.1.png)<br>
 
